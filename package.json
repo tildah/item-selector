@@ -1,0 +1,46 @@
+{
+  "_from": "item-selector",
+  "_id": "item-selector@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-2aeMmNkgm4rh74Blq251cVr/thC92gpiI4jtnAy5q+1Y/lGkCHBc/Ns+WRGY73VfJ76os9SX9A7Cd+WMaxyk0A==",
+  "_location": "/item-selector",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "item-selector",
+    "name": "item-selector",
+    "escapedName": "item-selector",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/item-selector/-/item-selector-1.0.0.tgz",
+  "_shasum": "7345f4e42a4cf2c6e9be6e3d3d807f9b4978e830",
+  "_spec": "item-selector",
+  "_where": "/home/gtx46/Desktop/projects/maknaze-front",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/chhamdi/item-selector/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "web component for selecting products",
+  "homepage": "https://github.com/chhamdi/item-selector#readme",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "item-selector",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chhamdi/item-selector.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
