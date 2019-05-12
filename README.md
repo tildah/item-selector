@@ -43,7 +43,7 @@ npm i item-selector
 		).addEventListener("deselect-item", remove);
 
         function add() {console.log("product is selected")}    
-		function remove() { console.log("product is unselected")}
+	function remove() { console.log("product is unselected")}
 
 	</script>
 </html>``
